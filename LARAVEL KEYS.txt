@@ -1,0 +1,11 @@
+Client ID: 1
+Client secret: TISPvA3SC9RZ5gBW9xhbTjVdpmAmJScgBz6DVKBJ
+Password grant client created successfully.
+Client ID: 2
+Client secret: Fi85lHTO3sxus8iZAjHWRrxTcre6GirZjOAZTwGE
+
+Client ID: 7
+Client secret: A1tiff85F0fTaMHOVLO0VQeEOFeUvXJw15H5JnQb
+Password grant client created successfully.
+Client ID: 8
+Client secret: fGqAJn2vcsgpdbxSK7c8AXMlOINNQ02fNqBIhv7P
